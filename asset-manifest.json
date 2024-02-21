@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ute-spot/static/css/main.75698248.css",
-    "main.js": "/ute-spot/static/js/main.494e7f7a.js",
+    "main.js": "/ute-spot/static/js/main.dd0ca382.js",
     "static/js/787.a319225c.chunk.js": "/ute-spot/static/js/787.a319225c.chunk.js",
     "static/media/hiluxTowing.mp4": "/ute-spot/static/media/hiluxTowing.1bc61675093595fa93f0.mp4",
     "static/media/footerEdited.png": "/ute-spot/static/media/footerEdited.88bc3d7d82293527a507.png",
@@ -32,11 +32,11 @@
     "static/media/menu-icon.svg": "/ute-spot/static/media/menu-icon.0c4d59725d80638c87fca2ca9ec1a3df.svg",
     "static/media/icon_Acc_Tow_bar_48x48.svg": "/ute-spot/static/media/icon_Acc_Tow_bar_48x48.c6d7ba07969caf32a4eaca8149649682.svg",
     "main.75698248.css.map": "/ute-spot/static/css/main.75698248.css.map",
-    "main.494e7f7a.js.map": "/ute-spot/static/js/main.494e7f7a.js.map",
+    "main.dd0ca382.js.map": "/ute-spot/static/js/main.dd0ca382.js.map",
     "787.a319225c.chunk.js.map": "/ute-spot/static/js/787.a319225c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75698248.css",
-    "static/js/main.494e7f7a.js"
+    "static/js/main.dd0ca382.js"
   ]
 }
