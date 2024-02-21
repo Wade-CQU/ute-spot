@@ -1,5 +1,6 @@
 import React, { useState }from 'react'
 import MenuIcon from '../assets/icons/menu-icon.svg'
+import { Link } from 'react-router-dom';
 
 const Nav = ({ logo }) => {
 
@@ -25,7 +26,7 @@ const Nav = ({ logo }) => {
 
             <ul className='nav nav-width justify-end'>
                 <li className='nav-item'>
-                    <a href='/details' className='nav-link' >VIEW RANGE</a>
+                    <Link to='/details' className='nav-link' >VIEW RANGE</Link>
                 </li>
                 <li className='nav-item'>
                     <a className='nav-link' >FIND A DEALER</a>
@@ -43,7 +44,7 @@ const Nav = ({ logo }) => {
         
         <div className='nav-links-expanded' onMouseLeave={hideLinks} style={isExpanded ? { display: 'block'} : {display: 'none'}}>
             <li className='nav-item'>
-                <a href='/details' className='nav-link' >VIEW RANGE</a>
+                <Link to='/details' className='nav-link' >VIEW RANGE</Link>
             </li>
             <li className='nav-item'>
                 <a className='nav-link' >FIND A DEALER</a>
